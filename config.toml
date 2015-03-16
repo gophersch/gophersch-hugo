@@ -1,0 +1,11 @@
+baseurl = "https://gophersch.github.io/"
+languageCode = "en-us"
+title = "Gophers .CH"
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+  Description = "The Swiss Gophers blog"
+  author = "yageek"
