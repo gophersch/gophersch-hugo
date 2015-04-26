@@ -5,7 +5,7 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-
+disqusShortname = "gophersch"
 [params]
   Description = "The Swiss Gophers blog"
   author = "yageek"
